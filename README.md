@@ -26,5 +26,7 @@ Para verificar la instalación, ingresar al directorio "template" y ejecutar el 
 - [Curso básico de LaTeX](http://nokyotsu.com/latex/curso.html)
 - [A simple guide to LaTeX - Step by Step](https://www.latex-tutorial.com/tutorials/)
 - [Overleaf: editor de LaTeX  colaborativo](https://www.overleaf.com/project)
+- [Biber: un reemplazo de BibTeX para usuarios de BibLaTeX](http://biblatex-biber.sourceforge.net/)
+- [Editor de referencias online](https://truben.no/latex/bibtex/)
 - [`listings`, páquete para incluir código](https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings)
 - [Documentación de `listings`](http://texdoc.net/texmf-dist/doc/latex/listings/listings.pdf)
