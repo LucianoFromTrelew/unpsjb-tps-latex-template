@@ -30,3 +30,15 @@ Para verificar la instalación, ingresar al directorio "template" y ejecutar el 
 - [Editor de referencias online](https://truben.no/latex/bibtex/)
 - [`listings`, páquete para incluir código](https://en.wikibooks.org/wiki/LaTeX/Source_Code_Listings)
 - [Documentación de `listings`](http://texdoc.net/texmf-dist/doc/latex/listings/listings.pdf)
+
+## Versión con [jupyter notebook](https://jupyter.org/)
+
+Adaptación del template en LaTeX para ipynb's
+### Requerimientos adicionales
+
++ `python3`
++ `jupyter notebook`
+    + python3 -m pip install jupyter
+
+
+ 
